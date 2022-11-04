@@ -37,7 +37,7 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                   <img
-                    src="imgs/testi/mohamed2.jpg"
+                    src="./imgs/testi/mohamed2.jpg"
                     alt="Profile"
                     className="img-fluid rounded-circle w-25 "
                   />
@@ -57,7 +57,7 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                   <img
-                    src="imgs/testi/mohamed3.jpg"
+                    src="./imgs/testi/mohamed3.jpg"
                     alt="Profile"
                     className="img-fluid rounded-circle w-25"
                   />
@@ -77,7 +77,7 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                 <img
-                    src="imgs/testi/mohamed1.jpg"
+                    src="./imgs/testi/mohamed1.jpg"
                     alt="Profile"
                     className="img-fluid rounded-circle w-25"
                   />
