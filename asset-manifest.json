@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Noxi-Movies/static/css/main.7f758e2f.css",
-    "main.js": "/Noxi-Movies/static/js/main.a02fdf0b.js",
-    "static/js/787.29c025d2.chunk.js": "/Noxi-Movies/static/js/787.29c025d2.chunk.js",
+    "main.css": "/Noxi-Movies/static/css/main.98153baa.css",
+    "main.js": "/Noxi-Movies/static/js/main.fa9355f3.js",
+    "static/js/787.14e4bc02.chunk.js": "/Noxi-Movies/static/js/787.14e4bc02.chunk.js",
     "index.html": "/Noxi-Movies/index.html",
-    "main.7f758e2f.css.map": "/Noxi-Movies/static/css/main.7f758e2f.css.map",
-    "main.a02fdf0b.js.map": "/Noxi-Movies/static/js/main.a02fdf0b.js.map",
-    "787.29c025d2.chunk.js.map": "/Noxi-Movies/static/js/787.29c025d2.chunk.js.map"
+    "main.98153baa.css.map": "/Noxi-Movies/static/css/main.98153baa.css.map",
+    "main.fa9355f3.js.map": "/Noxi-Movies/static/js/main.fa9355f3.js.map",
+    "787.14e4bc02.chunk.js.map": "/Noxi-Movies/static/js/787.14e4bc02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f758e2f.css",
-    "static/js/main.a02fdf0b.js"
+    "static/css/main.98153baa.css",
+    "static/js/main.fa9355f3.js"
   ]
 }
