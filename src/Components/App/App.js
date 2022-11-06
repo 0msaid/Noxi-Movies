@@ -50,10 +50,10 @@ function App() {
             <MediaContextProvider>
             <Navber loginData={loginData} logOut={logOut}/>
            
-            <div className={`container-fluid ${styles.main}`}>
+            <div className={`container-fluid vh-100 ${styles.main}`}>
             <Routes>
               
-              <Route path='/' element={<LandingPage/>} />
+              
               <Route path='/home' element={<ProtectedRout><Home/></ProtectedRout> } />
               <Route path='/about' element={<ProtectedRout><About/></ProtectedRout>} />
               <Route path='/movies' element={<ProtectedRout><Movies/></ProtectedRout>} />
@@ -64,7 +64,8 @@ function App() {
               <Route path='/detailsperson' element={<ProtectedRout><DetailsActros/></ProtectedRout>}/>
 
      
-       
+              <Route path='/' element={<LandingPage/>} />
+              <Route path='/Noxi-Movies//' element={<LandingPage/>}/>
               <Route path='/register' element={<Register/>} />
               <Route path='/login' element={ < Login getUserData={getUserData}/>} />
               <Route path='*' element={<NotFonud/>} />
