@@ -122,11 +122,11 @@ export default function Login({getUserData}) {
     );
   }
   return (
-    <>
+    <div className="vh-100">
         <h1 className="text-center">Login now</h1>
 
       {renderErrorFromServere()}
       {renderForm()}
-    </>
+    </div>
   );
 }

@@ -1,6 +1,6 @@
 {
   "homepage": "https://0msaid.github.io/Noxi-Movies",
-  "name": "movies",
+  "name": "noxi-movies",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

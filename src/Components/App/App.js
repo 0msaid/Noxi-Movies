@@ -50,7 +50,7 @@ function App() {
             <MediaContextProvider>
             <Navber loginData={loginData} logOut={logOut}/>
            
-            <div className={`container-fluid vh-100 ${styles.main}`}>
+            <div className={`container-fluid  ${styles.main}`}>
             <Routes>
               
               

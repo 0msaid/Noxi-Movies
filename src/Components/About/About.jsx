@@ -3,7 +3,7 @@ import React from "react";
 export default function About() {
   return (
     <>
-      <div className="carouselPart py-5">
+      <div className="carouselPart py-5 vh-100">
         <div
           id="carouselExampleIndicators"
           className="carousel slide"
@@ -37,9 +37,9 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                   <img
-                    src="./imgs/testi/mohamed2.jpg"
+                    src="https://image.tmdb.org/t/p/w500/3UmLRKzI9fXONhyad2wdQ3JAKDO.jpg"
                     alt="Profile"
-                    className="img-fluid rounded-circle w-25 "
+                    className="img-fluid  img-thumbnail w-25 "
                   />
                 </div>
                 <p>
@@ -57,9 +57,9 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                   <img
-                    src="./imgs/testi/mohamed3.jpg"
+                    src="https://image.tmdb.org/t/p/w500/8qBylBsQf4llkGrWR3qAsOtOU8O.jpg"
                     alt="Profile"
-                    className="img-fluid rounded-circle w-25"
+                    className="img-fluid  img-thumbnail w-25 "
                   />
                 </div>
                 <p>
@@ -77,9 +77,9 @@ export default function About() {
                 <i className="fas fa-quote-left text-danger fa-2x"></i>
                 <div className="myImage">
                 <img
-                    src="./imgs/testi/mohamed1.jpg"
+                    src="https://image.tmdb.org/t/p/w500/whNwkEQYWLFJA8ij0WyOOAD5xhQ.jpg"
                     alt="Profile"
-                    className="img-fluid rounded-circle w-25"
+                    className="img-fluid  img-thumbnail w-25"
                   />
                 </div>
                 <p>
