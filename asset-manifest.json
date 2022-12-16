@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Noxi-Movies/static/css/main.98153baa.css",
-    "main.js": "/Noxi-Movies/static/js/main.d7e9340f.js",
+    "main.css": "/Noxi-Movies/static/css/main.36a38eed.css",
+    "main.js": "/Noxi-Movies/static/js/main.5ef3bb03.js",
     "static/js/787.29c025d2.chunk.js": "/Noxi-Movies/static/js/787.29c025d2.chunk.js",
     "index.html": "/Noxi-Movies/index.html",
-    "main.98153baa.css.map": "/Noxi-Movies/static/css/main.98153baa.css.map",
-    "main.d7e9340f.js.map": "/Noxi-Movies/static/js/main.d7e9340f.js.map",
+    "main.36a38eed.css.map": "/Noxi-Movies/static/css/main.36a38eed.css.map",
+    "main.5ef3bb03.js.map": "/Noxi-Movies/static/js/main.5ef3bb03.js.map",
     "787.29c025d2.chunk.js.map": "/Noxi-Movies/static/js/787.29c025d2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98153baa.css",
-    "static/js/main.d7e9340f.js"
+    "static/css/main.36a38eed.css",
+    "static/js/main.5ef3bb03.js"
   ]
 }
